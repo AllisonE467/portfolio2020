@@ -1,6 +1,6 @@
 ## Welcome to Allison's portfolio
 
-![]()
+![typing test](https://github.com/AllisonE467/portfolio2020/blob/gh-pages/images/Screenshot%202020-08-27%20at%203.35.59%20PM.png?raw=true)
 
 You can use the [editor on GitHub](https://github.com/AllisonE467/portfolio2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
